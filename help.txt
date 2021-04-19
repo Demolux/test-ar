@@ -1,0 +1,9 @@
+Create Charset for special characters like ä, ö or è (dont forget space!)
+
+ AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZzÄäÖöÜü1234567890
+
+create with https://msdf-bmfont.donmccurdy.com/
+
+
+Insructions and example for gestures with AR.js
+https://github.com/fcor/arjs-gestures
