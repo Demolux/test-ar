@@ -65,13 +65,24 @@
 					gesture-handler
 				></a-entity>
 				<a-text 
-					id="titletext"
+					id="titletextinner"
 					value="Dämmerung II\nJulia Federspiel\n2021"
 					position="1 0 1"
 					rotation="0 90 0"
 					font="testfont-msdf.json"
 					color="black"
 					negate="false"
+					align="right"
+					look-at="src: #camera1"
+				></a-text>
+				<a-text 
+					id="titletextouter"
+					value="Dämmerung II\nJulia Federspiel\n2021"
+					position="1 0 1"
+					rotation="0 90 0"
+					font="testfont-msdf.json"
+					color="white"
+					negate="true"
 					align="right"
 					look-at="src: #camera1"
 				></a-text>
